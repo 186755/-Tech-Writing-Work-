@@ -10,3 +10,6 @@ I enjoy writing about my **cows** and experiences I have encountered with them. 
 - Maddie
 - Oakleigh
 - Timber
+
+> Until next time
+***Jessica***
