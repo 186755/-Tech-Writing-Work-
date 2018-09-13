@@ -43,8 +43,8 @@ between 17/18 and the projected 18/19.
 
 
 ### **Decision Price Model (Soybeans)**
-Acreage | 17/18 | 18/19 | % Change
-
+     Acreage | 17/18 | 18/19 | % Change
+             |       |    |
 Planted Area | 90.21 | 91 | 0.88%
 
 Harvested Area 89.5 90.4 1.01%
