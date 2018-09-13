@@ -2,6 +2,8 @@
 title: Soybeans   
 author: Jessica Crawley    
 date: September 13, 2018  
+professor: Miller 
+class: Tech Writing  
 ---   
 
 **Soybeans** (glycine max), is a species of legume widely grown for its edible bean, which
