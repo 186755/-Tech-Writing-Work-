@@ -43,7 +43,7 @@ between 17/18 and the projected 18/19.
 
 ---  
 title: Dairy 101  
-author: Jessica Crawley 
+author: Jessica Crawley    
 date: September 13, 2018  
 ---  
 
