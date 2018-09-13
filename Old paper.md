@@ -40,3 +40,10 @@ increase from 17/18 to the projected 18/19. Exports were trailing far behind at 
 still significant due to the decrease of exports by 35 million bushels. The following chart displays
 these variables and the current supply and demand of soybeans, it also includes percent change
 between 17/18 and the projected 18/19.
+
+
+----
+name: Jessica Crawley
+Professor: Miller
+Date: September 27, 2018
+----
