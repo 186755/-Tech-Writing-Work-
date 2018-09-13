@@ -2,7 +2,7 @@
 title: Soybeans   
 author: Jessica Crawley    
 date: September 13, 2018  
-professor:   Miller 
+professor: Miller 
 class: Tech Writing  
 ---   
 
