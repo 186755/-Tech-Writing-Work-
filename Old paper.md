@@ -1,4 +1,5 @@
-Soybeans
+# Soybeans
+
 Soybeans (glycine max), is a species of legume widely grown for its edible bean, which
 has numerous uses. Originating in Southeast Asia, soybeans were first domesticated by Chinese
 farmers around 1100 BC; by the first century AD, soybeans spread to Japan and many other
@@ -30,6 +31,7 @@ third, being over 50% less than the United States.
 - Monday–Friday, 8:30 a.m. – 1:20 p.m. CT.
 - Listed contract – January, March, May, July, August, September, and
   November.
+  
 I will be trading as a fundamentalist based on supply and demand. I believe important
 variables are: planted area, harvested area, yield, beginning stocks, production, imports, crush,
 exports, seed, residual, weather, value of the dollar, world production, government regulations,
