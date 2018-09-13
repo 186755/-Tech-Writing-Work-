@@ -1,4 +1,8 @@
-# Soybeans
+---  
+title: Soybeans   
+author: Jessica Crawley    
+date: September 13, 2018  
+---   
 
 **Soybeans** (glycine max), is a species of legume widely grown for its edible bean, which
 has numerous uses. Originating in Southeast Asia, soybeans were first domesticated by Chinese
@@ -41,10 +45,6 @@ still significant due to the decrease of exports by 35 million bushels. The foll
 these variables and the current supply and demand of soybeans, it also includes percent change
 between 17/18 and the projected 18/19.
 
----  
-title: Dairy 101  
-author: Jessica Crawley    
-date: September 13, 2018  
----  
+
 
 
