@@ -22,13 +22,14 @@ however, harvested area is at a record 89.5 million acres, up 8% from 2016. The 
 harvested area is what allowed farmers to set a record high production in 2017. The United
 States leads worldwide soybean production with Brazil trailing shortly behind; Argentina is
 third, being over 50% less than the United States.
-Contract Spects are as follows:
-Contract limit – 5,000 bushels.
-Minimum price fluctuation – ¼th of one cent per bushel ($12.50 per contract)
-Trading hours – Sunday–Friday, 7:00 p.m. – 7:45 a.m. CT and
- Monday–Friday, 8:30 a.m. – 1:20 p.m. CT.
-Listed contract – January, March, May, July, August, September, and
- November.
+
+- Contract Spects are as follows:
+- Contract limit – 5,000 bushels.
+- Minimum price fluctuation – ¼th of one cent per bushel ($12.50 per contract)
+- Trading hours – Sunday–Friday, 7:00 p.m. – 7:45 a.m. CT and
+- Monday–Friday, 8:30 a.m. – 1:20 p.m. CT.
+- Listed contract – January, March, May, July, August, September, and
+  November.
 I will be trading as a fundamentalist based on supply and demand. I believe important
 variables are: planted area, harvested area, yield, beginning stocks, production, imports, crush,
 exports, seed, residual, weather, value of the dollar, world production, government regulations,
