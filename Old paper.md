@@ -42,10 +42,9 @@ these variables and the current supply and demand of soybeans, it also includes 
 between 17/18 and the projected 18/19.
 
 
-### Decision Price Model (Soybeans)
-|Acreage 17/18 18/19 % Change|
-______________________________
-|Planted Area 90.21 91 0.88%|
+#### Decision Price Model (Soybeans)
+Acreage | 17/18 | 18/19 | % Change
+Planted Area | 90.21 | 91 | 0.88%
 Harvested Area 89.5 90.4 1.01%
 Yield 49.1 50 1.83%
 Supply
