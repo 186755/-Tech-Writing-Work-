@@ -1,6 +1,6 @@
 # Soybeans
 
-Soybeans (glycine max), is a species of legume widely grown for its edible bean, which
+**Soybeans** (glycine max), is a species of legume widely grown for its edible bean, which
 has numerous uses. Originating in Southeast Asia, soybeans were first domesticated by Chinese
 farmers around 1100 BC; by the first century AD, soybeans spread to Japan and many other
 countries around the world. Cultivation of the crop is most successful in climates with hot
@@ -40,26 +40,3 @@ increase from 17/18 to the projected 18/19. Exports were trailing far behind at 
 still significant due to the decrease of exports by 35 million bushels. The following chart displays
 these variables and the current supply and demand of soybeans, it also includes percent change
 between 17/18 and the projected 18/19.
-
-
-### **Decision Price Model (Soybeans)**
-     Acreage | 17/18 | 18/19 | % Change
-             |       |    |
-Planted Area | 90.21 | 91 | 0.88%
-
-Harvested Area 89.5 90.4 1.01%
-Yield 49.1 50 1.83%
-Supply
-Beginning Stocks 302 555 83.77%
-Production 4,392 4,520 2.91%
-Imports 25 25 0.00%
-Total 4,719 5,100 8.07%
-Usage
-Crush 1,960 1,980 1.02%
-Exports 2,065 2,200 6.54%
-Seed 106 105 -0.94%
-Residual 33 35 6.06%
-Total 4,164 4,320 3.75%
-Ending Stocks 555 780 40.54%
-Stocks/Use 13.3% 18.0% 35.34%
-Farm Price ($/bu) 9.00-9.70 7.75-9.00
