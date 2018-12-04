@@ -8,5 +8,5 @@
 - Wake up earlier or work on it during a break throughout the day.
 - Try to set a time every day specifically for writing.
 
-## One strengh
+## One Strength
 - I do my best work when I get in "comp mode". I can knock a paper out and it'll sound pretty dang good too. You never know when it might hit. 
